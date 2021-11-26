@@ -1,0 +1,14 @@
+Covid 19 tracker using flutter and API
+
+Features:
+1. Dashboard for Total records overall and daily reports
+2. Create another screen for the reports for getting all the reports in countries
+ - With filter function that can filter the data shown base in the selected data
+  - With navigation to other screen to check the data shown base on the country
+
+APIS to use:
+1. getDailyReportTotals
+2. getLatestTotals
+
+3. getDailyReportAllCountries
+4. getDailyReportByCountryName
